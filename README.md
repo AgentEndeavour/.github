@@ -4,6 +4,8 @@ We Focus on Agentic Apps which may change the way people live/study/work.
 
 Our first dedicated project:
 
+[RakullApp](https://github.com/AgentEndeavour/RakullApp)
+
 <div>
   <a href="https://github.com/ETOgaosion/hugo-theme-arknights">
     <picture>
